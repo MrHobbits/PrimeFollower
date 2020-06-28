@@ -1,11 +1,11 @@
 # PrimeFollower
 Prime Follower is a Twitter bot that checks a list of users' follower accounts to see if it is a prime number of not, if it is the bot notifies them.
 
-##General Info
+## General Info
 Python version: works with Python 3, currently using 3.8 with no problems
 Modules: json, tweepy, logging, 
 
-##History
+## History
 I started this project because a user on twitter 
 (@DHAhole) tweeted something to the lines of "I wish 
 someone would make a bot that would let me know when 
@@ -24,7 +24,7 @@ as I'm sure I didn't do a lot of things in the most efficient
 way. If you've got some suggestions or changes you'd like to
 see feel free to let me know!
 
-##Usage
+## Usage
 If you want to run this on your own, you need to have Twitter developer API tokens
 which are NOT included in this release (for security reasons, obv).
 
@@ -34,5 +34,5 @@ and fill it in with your Twitter developer API tokens/keys.
 After that, you need to make sure you have the tweepy module
 installed (pip install tweepy)
 
-##Contact info
+## Contact info
 If you need to message me I check GitHub often and will see your message.
